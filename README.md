@@ -129,3 +129,12 @@ app watch, use the `-packages` argument to app watch to specify the set of packa
 include in the watch process.
     
     $ sencha app watch -packages Alerts
+
+## Notes made by Zhao Jianrun
+Clone the code.
+### 1. Delete workspace.json on root folder.
+### 2. Run the following command to generate a workspace with the specific Ext JS framework:
+sencha -sdk E:\Software\ext-6.5.2-trial\ext-6.5.2 generate workspace ./
+### 3. Run the command below to build a testing version for the app.
+sencha app build -testing -uses
+### 4. You can now dynamically run the app via your browser.(*＾-＾*)d=====(￣▽￣*)bO(∩_∩)O哈哈~
