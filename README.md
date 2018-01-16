@@ -138,3 +138,6 @@ sencha -sdk E:\Software\ext-6.5.2-trial\ext-6.5.2 generate workspace ./
 ### 3. Run the command below to build a testing version for the app.
 sencha app build -testing -uses
 ### 4. You can now dynamically run the app via your browser.(*＾-＾*)d=====(￣▽￣*)bO(∩_∩)O哈哈~
+
+
+I'm a lovely girl.
